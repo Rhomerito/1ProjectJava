@@ -1,2 +1,3 @@
 # 1ProjectJava
-Repsitório paraarmazenar o conteudo curso Java Basico DIO
+Repsitório para armazenar o conteudo curso Java Basico DIO
+Alterando um conteudo de forma local
